@@ -1,1 +1,3 @@
 https://www.kaggle.com/datasets/thedevastator/a-quick-overview-of-clinical-trials
+https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset
+https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset
